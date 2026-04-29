@@ -9,7 +9,7 @@ Este repositório contém a documentação técnica, firmwares e scripts desenvo
 
 **/RaspberryPi**: Script principal (`final.py`) responsável pela detecção via YOLO, filtragem de trajetória com Filtro de Kalman e comunicação via protocolo MQTT.
 
-**/ESP32**: Firmware (`teste5lim.ino`) em C++ para controle dos motores e execução dos comandos de movimento recebidos via ESP32 e comunicação MQTT.
+**/ESP32**: Firmware (`esp32.ino`) em C++ para controle dos motores e execução dos comandos de movimento recebidos via ESP32 e comunicação MQTT.
 
 =============================================================================================================
 
