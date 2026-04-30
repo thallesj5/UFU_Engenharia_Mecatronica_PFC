@@ -3,6 +3,9 @@ IMPLEMENTAÇÃO DE ROBÔ MÓVEL PARA RASTREIO DE PESSOA COM VISÃO COMPUTACIONAL
 
 Este repositório contém a documentação técnica, firmwares e scripts desenvolvidos para o Projeto de Fim de Curso (PFC) em Engenharia Mecatrônica na **Universidade Federal de Uberlândia (UFU)**. O projeto foca na integração de visão computacional para rastreio de uma pessoa.
 
+Vídeo de funcionamento do robô móvel:
+https://youtube.com/shorts/ePYdX8Z8UN4?feature=share
+
 =============================================================================================================
 
 ## Estrutura do Repositório
